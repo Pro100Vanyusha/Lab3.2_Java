@@ -1,1 +1,1 @@
-# Lab3.2_Java
+# lab3.2-java
